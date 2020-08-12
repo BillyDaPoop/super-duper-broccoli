@@ -1,5 +1,5 @@
 ---
-id: schedulingActions
+id: scheduling-actions
 title: Scheduling Actions
 hide_title: true
 hide_table_of_contents: false
@@ -13,19 +13,19 @@ keywords:
 image: https://media.discordapp.net/attachments/738919680332529714/742944515513385060/fIrk0CBBQH9dEuHoPwkojXlgNO-ru7Jzy9kfK911iOagw4yKpYGKhpTX8Zj0mjxZ_wCf80PGxx4uvvxY9kAu7UBCm7NOwG1ZfmBZ.png
 ---
 # Scheduling Actions
-![BloomVPS Scheduling Actions](../static/img/schedulingActions/schedulingActions1.png)
+![BloomVPS Scheduling Actions](../static/img/scheduling-actions/scheduling-actions1.png)
 
 Hey there Bloomers! In this guide, we will go over scheduling actions to go off at predetermined times for your server. 
 
-![BloomVPS Scheduling Actions](../static/img/schedulingActions/schedulingActions2.png)
+![BloomVPS Scheduling Actions](../static/img/scheduling-actions/scheduling-actions2.png)
 
 First, you want to go to your server panel and go to its sidebar. There, you will find a tab called Schedules. The number next to it shows how many schedules you have set up so far. 
 
-![BloomVPS Scheduling Actions](../static/img/schedulingActions/schedulingActions3.png)
+![BloomVPS Scheduling Actions](../static/img/scheduling-actions/scheduling-actions3.png)
 
 Here is where all your schedules will be located in one convenient place. To add a new schedule, click the **Create New** button.
 
-![BloomVPS Scheduling Actions](../static/img/schedulingActions/schedulingActions4.png)
+![BloomVPS Scheduling Actions](../static/img/scheduling-actions/scheduling-actions4.png)
 
 In the scheduling panel, there are 3 main sections of each schedule. Its name, the day it will go off and the time it will go off, and the action it will perform.
 
@@ -44,12 +44,12 @@ Kill - Kills the server (Not recommended!)
 
 “Daily Restart”
 
-![BloomVPS Scheduling Actions](../static/img/schedulingActions/schedulingActions5.png)
+![BloomVPS Scheduling Actions](../static/img/scheduling-actions/scheduling-actions5.png)
 
 “Launch Day!”
 
-![BloomVPS Scheduling Actions](../static/img/schedulingActions/schedulingActions6.png)
+![BloomVPS Scheduling Actions](../static/img/scheduling-actions/scheduling-actions6.png)
 
 “LoJoSho has to do something”
 
-![BloomVPS Scheduling Actions](../static/img/schedulingActions/schedulingActions7.png)
+![BloomVPS Scheduling Actions](../static/img/scheduling-actions/scheduling-actions7.png)
