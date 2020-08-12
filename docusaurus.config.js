@@ -76,7 +76,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/billydapoop/super-duper-broccoli/edit/master/website/',
+            'https://github.com/BillyDaPoop/super-duper-broccoli/edit/master/docs/',
         },
         blog: {
           showReadingTime: true,
