@@ -76,13 +76,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/BillyDaPoop/super-duper-broccoli/edit/master/docs/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/BillyDaPoop/super-duper-broccoli/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
