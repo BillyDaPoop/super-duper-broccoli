@@ -1,15 +1,15 @@
 module.exports = {
-  title: 'Turbo Potato',
+  title: 'Super Duper Broccoli',
   tagline: 'The tagline of my site',
-  url: 'https://billydapoop.github.io',
-  baseUrl: '/turbo-potato/',
+  url: 'https://super-duper-broccoli.netlify.com',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'billydapoop', // Usually your GitHub org/user name.
   projectName: 'turbo-potato', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Turbo Potato',
+      title: 'Super Duper Broccoli',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -21,7 +21,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: 'https://github.com/billydapoop/turbo-potato',
+          href: 'https://github.com/billydapoop/super-duper-broccoli',
           label: 'GitHub',
           position: 'right',
         },
@@ -56,17 +56,13 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/billydapoop/super-duper-broccoli',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Super Duper Broccoli, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -80,7 +76,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/billydapoop/super-duper-broccoli/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
