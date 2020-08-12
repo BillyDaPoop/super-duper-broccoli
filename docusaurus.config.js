@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'billydapoop', // Usually your GitHub org/user name.
-  projectName: 'turbo-potato', // Usually your repo name.
+  projectName: 'super-duper-broccoli', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Super Duper Broccoli',
@@ -71,7 +71,7 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'doc1',
+          homePageId: 'basicControls',
           routeBasePath: '/', // Set this value to '/'.
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
