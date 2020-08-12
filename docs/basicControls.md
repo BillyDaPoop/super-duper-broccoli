@@ -13,8 +13,11 @@ image: https://media.discordapp.net/attachments/738919680332529714/7428103655319
 ---
 # Basic Controls
 ![BloomVPS Basic Controls](../static/img/basicControls/basicControls1.png)
+
 Hey there Bloomers! This guide will help you understand your panel environment and what everything means.
+
 ![BloomVPS Basic Controls](../static/img/basicControls/basicControls2.png)
+
 Blue is the memory usage your server is using. With Akair flags, you will be using most of this. Unused memory is wasted memory!
 
 Orange is the CPU usage between your two cores. Minecraft Paper will only utilize 2 cores, meaning, having more doesn’t mean better performance. If you wish to have more, consider getting a VPS.
@@ -26,4 +29,5 @@ Gray is the console. In here, you can send any command and see what everyone on 
 Purple is the server control menu, allowing you to start, stop, and restart your server. It is not recommended to kill your server as plugins and worlds won’t save and may become corrupted. Only use it if your server becomes unresponsive.
 
 Yellow is the sidebar, which allows you to flip between different tabs on your panel. These range from control panel accounts to manage your databases. If a tab has an arrow on it, it is a category with multiple different tabs hidden under it. To see those tabs, click on the category to open up the available tabs.
+
 ![BloomVPS Basic Controls](../static/img/basicControls/basicControls3.png)
