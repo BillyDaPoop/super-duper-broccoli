@@ -3,7 +3,7 @@ id: pointingADomain
 title: Pointing A Domain
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Editing Account Details
+sidebar_label: Pointing A Domain
 description: This guide will help you point your domain at the ip address of your minecraft server.
 keywords:
   - BloomVPS
