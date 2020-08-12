@@ -1,7 +1,7 @@
 ---
 id: basicControls
 title: Basic Controls
-hide_title: false
+hide_title: true
 hide_table_of_contents: false
 sidebar_label: Basic Controls
 description: This guide will help you understand your panel environment and what everything means.
