@@ -3,7 +3,7 @@ id: how-to-use-SFTP
 title: How to use SFTP to transfer files
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Editing Account Details
+sidebar_label: How to use SFTP to transfer files
 description: This guide will help you edit your account details in the billing panel, and on the minecraft panel
 keywords:
   - BloomVPS
